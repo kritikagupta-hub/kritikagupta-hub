@@ -87,3 +87,5 @@ Tech: `React` `Vite` `JavaScript` `Groq API`
 [![GitHub](https://img.shields.io/badge/GitHub-kritikagupta--hub-181717?style=for-the-badge&logo=github)](https://github.com/kritikagupta-hub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kritika%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-gupta-688035304/)
 [![Email](https://img.shields.io/badge/Email-kritikagupta16102005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritikagupta16102005@gmail.com)
+
+<!-- profile-refresh: 2026-04-16 -->
