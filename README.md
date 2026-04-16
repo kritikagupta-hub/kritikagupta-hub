@@ -1,69 +1,89 @@
-# Hi, I'm Kritika Gupta
+<h1 align="center">Kritika Gupta</h1>
+<p align="center">
+  <strong>Data Science Undergraduate | ML Builder | Project Intern at IIT Kanpur</strong>
+</p>
+<p align="center">
+  I like building practical AI systems, clean data products, and projects that turn ideas into something people can actually use.
+</p>
 
-## About Me
-I am a B.Tech Computer Science student specializing in Data Science at Maharana Pratap Engineering College, Kanpur. I enjoy building practical AI, machine learning, and data-driven applications, and I am especially interested in solving real problems through clean, efficient systems.
+## Profile Snapshot
+- B.Tech in Computer Science and Engineering (Data Science), Maharana Pratap Engineering College, Kanpur
+- Expected graduation: December 2027
+- Current SGPA: `8.6`
+- Based in Kanpur, India
+- Interested in machine learning, NLP, recommendation systems, analytics, and visualization-driven tools
 
-Right now, I am focused on:
-- building impactful ML and full-stack projects
-- strengthening my DSA and core CS fundamentals
-- learning through internships, hands-on experimentation, and public projects
+## What I Am Working On
+- Building an interactive training-data selection system at IIT Kanpur using `VTK` and `PyQt5`
+- Strengthening problem solving through `DSA`, `C++`, and interview-style coding practice
+- Creating end-to-end projects in AI, forecasting, and intelligent web applications
 
 ## Experience
-### IIT Kanpur | Project Intern
-I am currently working on an interactive training data selection system using `VTK` and `PyQt5`, where 3D visualization helps improve machine learning workflows. My work involves volumetric data exploration, isosurface rendering, and widget-based data filtering for structured model training.
+### Project Intern | IIT Kanpur
+I am working on a 3D visualization-based framework for machine learning data preparation. The project focuses on interactive training-data selection, volumetric exploration, and threshold-based extraction using `vtkContourFilter`, `VTK`, and `PyQt5`.
 
-## Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-kritikagupta--hub-181717?style=for-the-badge&logo=github)](https://github.com/kritikagupta-hub)
-[![Email](https://img.shields.io/badge/Email-kritikagupta16102005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritikagupta16102005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kritika%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-gupta-688035304/)
-
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## Featured Projects
+## Selected Projects
 ### MindSpace Mental Health Tracker
-A mental health tracker web application designed to help users monitor and improve their well-being through a simple and supportive interface.
+A web application focused on helping users monitor and improve their mental well-being through a supportive digital experience.
 
-Repo: [MindSpace-Mental-Health-Tracker](https://github.com/kritikagupta-hub/MindSpace-Mental-Health-Tracker)
+Tech: `HTML` `CSS` `JavaScript`
 
-### LSTM-Based Stock Analysis System
-A stock analysis and forecasting project built with LSTM networks, exploratory data analysis, and time-series modeling to predict financial trends.
+Repository: [MindSpace-Mental-Health-Tracker](https://github.com/kritikagupta-hub/MindSpace-Mental-Health-Tracker)
 
-Repo: [Stock-prediction](https://github.com/kritikagupta-hub/Stock-prediction)
+### Stock Prediction System
+A time-series forecasting project built around `LSTM` models, exploratory analysis, and feature engineering for stock trend prediction.
 
-### DSA Practice
-A repository focused on interview-style coding problems, optimized approaches, and strong problem-solving patterns in C++.
+Tech: `Python` `TensorFlow` `Keras` `Pandas` `NumPy` `Matplotlib`
 
-Repo: [DSA](https://github.com/kritikagupta-hub/DSA)
+Repository: [Stock-prediction](https://github.com/kritikagupta-hub/Stock-prediction)
 
-### Interactive Selection of Training Data
-An ongoing research-oriented project using `VTK`, `PyQt5`, `Matplotlib`, and `NumPy` to interactively select training data from 3D volumetric datasets for machine learning.
+### DSA Practice Repository
+A growing collection of interview-focused coding problems, optimized approaches, and clean implementations in `C++`.
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kritikagupta-hub&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://streak-stats.demolab.com?user=kritikagupta-hub&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikagupta-hub&layout=compact&theme=tokyonight&hide_border=true)
+Tech: `C++` `Problem Solving` `Algorithms`
 
-## Current Goals
-- grow as a machine learning and data science engineer
-- keep building real-world AI and analytics projects
-- improve consistency in DSA and problem solving
-- prepare for strong internship and placement opportunities
+Repository: [DSA](https://github.com/kritikagupta-hub/DSA)
 
-## A Little More About Me
-I like building projects that mix logic, analytics, and real user impact. I am especially motivated by work that connects machine learning with visualization, recommendation systems, or practical decision-making tools.
+### AI Movie Recommendation System
+A full-stack recommendation project designed to deliver personalized suggestions based on genre, mood, and era, with natural language support powered by `LLaMA 3.3`.
+
+Tech: `React` `Vite` `JavaScript` `Groq API`
+
+## Technical Toolbox
+**Languages**  
+`Python` `C` `C++` `SQL` `JavaScript`
+
+**Machine Learning / AI**  
+`Scikit-Learn` `TensorFlow` `Keras` `SHAP` `LSTM` `CNN` `Random Forest` `TF-IDF`
+
+**Data and Visualization**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau` `VTK` `PyQt`
+
+**Web and Databases**  
+`React` `Django` `MySQL` `SQLite`
+
+**Developer Tools**  
+`Git` `GitHub` `Jupyter Notebook` `Google Colab` `VS Code`
+
+## Certifications and Learning
+- Joy of Computing Using Python - NPTEL
+- Data Analyst Job Simulation - Deloitte Forage
+- Cybersecurity Analyst Job Simulation - Forage
+- Python for Data Science - IBM
+- Introduction to Database Systems - NPTEL
+
+## GitHub Overview
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kritikagupta-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=kritikagupta-hub&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikagupta-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+## Connect
+[![GitHub](https://img.shields.io/badge/GitHub-kritikagupta--hub-181717?style=for-the-badge&logo=github)](https://github.com/kritikagupta-hub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kritika%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-gupta-688035304/)
+[![Email](https://img.shields.io/badge/Email-kritikagupta16102005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritikagupta16102005@gmail.com)
